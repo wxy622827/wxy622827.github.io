@@ -9,7 +9,7 @@
     </style>
 </head>
 <body>
-    	        <table align="center" border="1">
+    	        <table align="center" border="1"  width="740">
     	            <tr>
     	                <td bgcolor="yellow" width="240" height="600">
                         <p align="center"><img src="21202c3fb32f1884d889-1.jpg" width="154" height="203" align="center"/><p>
@@ -33,7 +33,7 @@
   lllustrator  <img src="http://climg.mukewang.com/58dc9e4e0001ba9000160016.png"><img src="http://climg.mukewang.com/58dc9e4e0001ba9000160016.png"></pre>
    </td>
                  
-    	                 <td bgcolor="green" width="550" valign="top">
+    	                 <td bgcolor="green" width="500" valign="top">
                         <p align="left">PERSONAL RESUME</p><br><br>
                         <hr>
                         <h3>个人简介</h3>
