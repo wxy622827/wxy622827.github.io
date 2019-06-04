@@ -33,7 +33,7 @@
   lllustrator  <img src="http://climg.mukewang.com/58dc9e4e0001ba9000160016.png"><img src="http://climg.mukewang.com/58dc9e4e0001ba9000160016.png"></pre>
    </td>
                  
-    	                 <td bgcolor="green" width="500" valign="top">
+    	                 <td bgcolor="green" width="550" valign="top">
                         <p align="left">PERSONAL RESUME</p><br><br>
                         <hr>
                         <h3>个人简介</h3>
